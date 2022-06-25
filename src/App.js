@@ -161,6 +161,7 @@ class App extends React.Component{
 
 
       }else{
+        this.array3 = []
           this.setState({
             city:  undefined,
             country: undefined,
